@@ -2,10 +2,13 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: '901 Lake Street Unit 3822 Oak Park, IL 60303'
+  - heading: Phone
+    text: ‪(312) 291-1239‬
   - heading: Email
-    text: hey@mralexbeard.com
+    text: |2-
+                                                                       
+
+      hey@mralexbeard.com
 ---
 
 We’d love to get in touch with you and hear your ideas and
