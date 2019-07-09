@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -60,14 +59,16 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Ryan C.
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Alex was great and I loved his energy from day one. He pushed me outside
+      my improv comfort zone and made me address my weaknesses and crutches. I
+      really appreciated that
+  - author: Alice L.
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Alex helped me grow as a leader, where there was any inkling of selfdoubt,
+      or feelings of being an imposter, I now stand strong knowing I'm here for
+      a reason and that people want to listen
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -98,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
