@@ -2,13 +2,8 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Phone
-    text: ‪(312) 291-1239‬
-  - heading: Email
-    text: |2-
-                                                                       
-
-      hey@mralexbeard.com
+  - heading: Call/Text/Email
+    text: ‪(312) 291-1239‬ / hey@mralexbeard.com
 ---
 
 We’d love to get in touch with you and hear your ideas and
