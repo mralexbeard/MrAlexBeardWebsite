@@ -37,9 +37,9 @@ values:
     imageUrl: /img/about-direct-sourcing.jpg
     text: >-
       People who say, "some things never change" have never explored the power
-      of improv. By teaching improv's key tenets of open active listening and
-      acceptance everyone has the power to let off the reigns and promote
-      equitable change both at home and in the workplace. If we listen to act,
-      we have failed to listen to understand.
+      of improv. By teaching improv's key tenets of open active listening,
+      acceptance, and agreement everyone has the power to let off the reigns and
+      promote equitable change both at home and in the workplace. Remember: if
+      we listen to act, we have failed to listen to understand.
 ---
 
