@@ -1,17 +1,15 @@
 ---
 title: Contact
 logo: /img/logo.svg
-contact_entries:
-  - heading: Call/Text/Email
-    text: ‪(312) 291-1239‬ / hey@mralexbeard.com
+contact_entries: []
 ---
+Edit for P: Ready to learn more about how Alex can design a custom executive training program for you or your business? Want to get a deeper understanding of the philosophy behind our creativity workshops? Curious about how our workshops can improve your management team’s communication and leadership skills? Then contact us today! Tell us the management goals of your organization and we’ll explain how our approach to executive training will help you meet your objectives.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">How can I get in touch with Alex?</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+You can use the form below for any inquiries about speaking/training facilitation
+availability, scheduling a 1-on-1 session, or program development consulting. Don’t be shy, drop Alex a line!
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">Call/Text/Email</h3>
+
+‪(312) 291-1239‬ / [hey@mralexbeard.com](hey@mralexbeard.com)
