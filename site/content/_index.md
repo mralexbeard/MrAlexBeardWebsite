@@ -20,13 +20,18 @@ intro:
     solving in the workplace and at home! 
 products:
   - image: img/illustrations-coffee.svg
-    text: product description
+    text: >-
+      What is Improvisational Theatre or "Improv" anyway? Improv is the simple
+      and innovative act of creating something (words, physical movement, etc.)
+      from nothing (no preparation, instructions, or script) onstage via the
+      power of listening, agreement, and bold decision making. 
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      So how can improv help me and my business? Everyday we are thrust into
+      situations requiring quick thinking and immediate decision making. Much
+      like a playbook, improv can expose a set of innate patterns and skills
+      that enable all of us to think on our feet, making the most informed
+      decision for any given problem.
 values:
   heading: 'His Values:'
   text: >-
