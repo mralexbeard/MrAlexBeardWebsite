@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: '901 Lake Street Unit 3822 Oak Park, IL 60303'
   - heading: Email
-    text: MrAlexBeard@gmail.com
+    text: hey@mralexbeard.com
 ---
 
 We’d love to get in touch with you and hear your ideas and
