@@ -12,4 +12,4 @@ availability, scheduling a 1-on-1 session, or program development consulting. Do
 
 <h3 class="f4 b lh-title mb2">Call/Text/Email</h3>
 
-‪(312) 291-1239‬ / h[ey@mralexbeard.com](mailto:hey@mralexbeard.com)
+‪(312) 291-1239‬ / <mailto:hey@mralexbeard.com>
