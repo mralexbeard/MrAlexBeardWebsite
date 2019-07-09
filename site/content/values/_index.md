@@ -11,9 +11,10 @@ values:
       regardless of how tough they are to make. How we approach our issues, or
       the lack of approach, can create a devastating impact on an individuals
       psyche, familial or team relationships, and ultimately life trajectory. If
-      you've ever felt "stuck" or buried by problems, Alex can help through
-      techniques and exercises designed to alter your thought process, and see
-      the problems for what they really are, opportunities. 
+      you or someone you know has ever felt "stuck" or buried by problems, Alex
+      can help through techniques and exercises designed to alter a persons
+      thought process, and see the problems for what they really are,
+      opportunities. 
   - heading: We are Our Best and Worst Critic
     imageUrl: /img/about-single-origin.jpg
     text: >
