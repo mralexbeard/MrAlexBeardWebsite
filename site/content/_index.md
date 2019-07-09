@@ -1,14 +1,15 @@
 ---
 title: Alex Beard
-subtitle: 'If You''re Not Laughing, You''re Not Leading...'
+subtitle: 'If You''re Not Laughing, You''re Not Leading'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Who's Alex?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Alex Beard is an actor, director, and teaching artist based out of Chicago,
+    IL. Holding expertise in improvisational theatre, Alex has leveraged the
+    power uncertainty, collaboration, and creativity to empower leaders across
+    the country in discovering their own innate ability to implement positive
+    and equitable change. 
 intro:
   heading: What we offer
   text: >-
