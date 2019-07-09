@@ -15,26 +15,31 @@ values:
       can help through techniques and exercises designed to alter a persons
       thought process, and see the problems for what they really are,
       opportunities. 
-  - heading: We are Our Best and Worst Critic
+  - heading: We are Our Worst Critic
     imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+    text: >-
+      Alex knows all too well the power of negative thought. While on the
+      surface it may seem helpful to nitpick at ones past transgressions,
+      failures, or flaws as a way to improve for the future, doting on the issue
+      can have the opposite effect. Recognizing these thoughts as inaccurate
+      fallacies of the mind, planted by societal norms and cognitive distortions
+      can lead to more appropriate methods of performance analysis. Everyone's a
+      critic, let Alex teach you how to filter out your own worst enemy. 
   - heading: 'In Relationships, Time Is of the Essence'
     imageUrl: /img/about-sustainable-farming.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: >-
+      In life, and in improv, the only person we have control over is ourselves.
+      Don't let past transgressions, poor decision making, or lack of leadership
+      permanently alter a persons view of your character. Time is of the
+      essence, learn how to show your tenacity and commitment for positive
+      change today! 
   - heading: Change Is Possible
     imageUrl: /img/about-direct-sourcing.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      People who say, "some things never change" have never explored the power
+      of improv. By teaching improv's key tenets of open active listening and
+      acceptance everyone has the power to let off the reigns and promote
+      equitable change both at home and in the workplace. If we listen to act,
+      we have failed to listen to understand.
 ---
 
