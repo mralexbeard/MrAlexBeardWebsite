@@ -1,6 +1,6 @@
 ---
 title: Alex Beard
-subtitle: 'If You''re Not Laughing, You''re Not Leading'
+subtitle: '"If You''re Not Laughing, You''re Not Leading"'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Who's Alex?
