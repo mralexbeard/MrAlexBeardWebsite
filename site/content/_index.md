@@ -11,7 +11,7 @@ blurb:
     the country in discovering their own innate ability to implement positive
     and equitable change. 
 intro:
-  heading: What we offer
+  heading: 'What Alex Offers:'
   text: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -32,7 +32,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: 'His Values:'
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
