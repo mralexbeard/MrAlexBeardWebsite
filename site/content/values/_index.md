@@ -16,7 +16,7 @@ values:
       thought process, and see the problems for what they really are,
       opportunities. 
   - heading: We are Our Worst Critic
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/design-desk-eyewear-313690.jpg
     text: >-
       Alex knows all too well the power of negative thought. While on the
       surface it may seem helpful to nitpick at ones past transgressions,
