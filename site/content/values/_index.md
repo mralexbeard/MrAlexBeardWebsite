@@ -1,6 +1,6 @@
 ---
 title: Alex's Values
-image: /img/businessmen-collaboration-cooperation-886465.jpg
+image: /img/handshake.jpg
 values:
   - heading: 'We Don''t Have Problems, We Have Opportunities '
     imageUrl: /img/architectural-design-architecture-brick-wall-422844-1-.jpg
