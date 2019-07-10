@@ -3,7 +3,7 @@ title: Alex's Values
 image: /img/about-jumbotron.jpg
 values:
   - heading: 'We Don''t Have Problems, We Have Opportunities '
-    imageUrl: /img/architectural-design-architecture-brick-wall-422844.jpg
+    imageUrl: /img/architectural-design-architecture-brick-wall-422844-1-.jpg
     text: >
       Life constantly presents us with a myriad of problems to be solved on a
       daily basis, some much more taxing emotionally, spiritually, or
