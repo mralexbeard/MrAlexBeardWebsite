@@ -50,20 +50,22 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: 'Alex teaching the foundations of leadership through hands-on activities. '
+    image: /img/img_2176.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: 'Alex presenting at LoCo ImprovFest. '
+    image: /img/img1725636401.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: >-
+      Getting creative teaching team-building on the streets of NYC in the
+      snow! 
+    image: /img/newyork-1-.jpg
 testimonials:
   - author: Ryan C.
     quote: >-
       Alex was great and I loved his energy from day one. He pushed me outside
-      my improv comfort zone and made me address my weaknesses and crutches. I
-      really appreciated that
+      my comfort zone and made me address my weaknesses and crutches. I really
+      appreciated that.
   - author: Alice L.
     quote: >-
       Alex helped me grow as a leader, where there was any inkling of selfdoubt,
