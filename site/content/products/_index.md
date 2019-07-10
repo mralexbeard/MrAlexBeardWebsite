@@ -71,11 +71,11 @@ testimonials:
       a reason and that people want to listen
 full_image: /img/37487199136_ba4213d031_o.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: '"Great people do things before they''re ready...'
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    They do things before they know they can do it. Doing what you're afraid of,
+    getting out of your comfort zone, taking risks like that...that's what life
+    is." - Amy Poehler
   plans: []
 ---
 
