@@ -15,7 +15,7 @@ values:
       can help through techniques and exercises designed to alter a persons
       thought process, and see the problems for what they really are,
       opportunities. 
-  - heading: We are Our Worst Critic
+  - heading: We Are Our Worst Critic
     imageUrl: /img/design-desk-eyewear-313690.jpg
     text: >-
       Alex knows all too well the power of negative thought. While on the
