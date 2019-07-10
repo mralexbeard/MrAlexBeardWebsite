@@ -19,7 +19,7 @@ intro:
     shortcomings, concoct collaborative workflows,  and boost creative problem
     solving in the workplace and at home! 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/teamwork2.svg
     text: >-
       What is Improvisational Theatre or "Improv" anyway? Improv is the simple
       and innovative act of creating something (words, physical movement, etc.)
