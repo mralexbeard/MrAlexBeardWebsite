@@ -1,6 +1,6 @@
 ---
 title: Alex's Services
-image: /img/products-jumbotron.jpg
+image: /img/alexkeynote.jpg
 heading: What Alex Offers
 description: >-
   Alex has an extensive menu of workshops and keynote speeches that he would be
