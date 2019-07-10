@@ -4,7 +4,7 @@ image: /img/products-jumbotron.jpg
 heading: What Alex Offers
 description: >-
   Alex has an extensive menu of workshops and keynote speeches that he would be
-  happy to share with you or your executive team. Below you will find four
+  happy to share with you or your executive team. Below you will find a few
   examples of sessions he has provided this year to various corporations and
   non-profit organizations. 
 intro:
@@ -39,7 +39,7 @@ intro:
   heading: What Alex Offers
   description: >-
     Alex has an extensive menu of workshops and keynote speeches that he would
-    be happy to share with you or your executive team. Below you will find four
+    be happy to share with you or your executive team. Below you will find a few
     examples of sessions he has provided this year to various corporations and
     non-profit organizations. 
 main:
