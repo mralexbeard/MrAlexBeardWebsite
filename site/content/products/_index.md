@@ -69,7 +69,7 @@ testimonials:
       Alex helped me grow as a leader, where there was any inkling of selfdoubt,
       or feelings of being an imposter, I now stand strong knowing I'm here for
       a reason and that people want to listen
-full_image: /img/products-full-width.jpg
+full_image: /img/37487199136_ba4213d031_o.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
