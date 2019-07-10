@@ -34,7 +34,7 @@ values:
       essence, learn how to show your tenacity and commitment for positive
       change today! 
   - heading: Change Is Possible
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: /img/20964341501_d8c1191e78_o.jpg
     text: >-
       People who say, "some things never change" have never explored the power
       of improv. By teaching improv's key tenets of open active listening,
