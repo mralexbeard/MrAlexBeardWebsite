@@ -25,7 +25,7 @@ products:
       and innovative act of creating something (words, physical movement, etc.)
       from nothing (no preparation, instructions, or script) onstage via the
       power of listening, agreement, and bold decision making. 
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/teamwork.svg
     text: >-
       So how can improv help me and my business? Everyday we are thrust into
       situations requiring quick thinking and immediate decision making. Much
