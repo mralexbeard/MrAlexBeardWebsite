@@ -1,6 +1,6 @@
 ---
 title: Alex's Services
-image: /img/alexkeynote.jpg
+image: /img/teacher.jpg
 heading: What Alex Offers
 description: >-
   Alex has an extensive menu of workshops and keynote speeches that he would be
