@@ -11,16 +11,17 @@ intro:
   blurbs:
     - image: /img/yesand.svg
       text: >-
-        The Art of Yes: Improvisation for Volunteer Managers:  "The Art of Yes"
-        at its core is the mindset of teamwork and collaboration. In life we
-        often approach things in black and white terms, "Yes" or "No."
-        Subsequently, each choice has a profound impact on the climate of your
-        organization and the volunteers that support your mission. Through "The
-        Art of Yes" we'll break down the decision making process and push
-        ourselves forward through creativity and spontaneity. Empathy,
-        awareness, inclusion, flexibility, authenticity, connection, trust, and
-        emotional intelligence are all factors that are explored and enhanced
-        through improvisation. Come say “Yes!”
+        <h3 class="f4 b lh-title mb2">The Art of Yes: Improvisation for
+        Volunteer Managers:</h3> "The Art of Yes" at its core is the mindset of
+        teamwork and collaboration. In life we often approach things in black
+        and white terms, "Yes" or "No." Subsequently, each choice has a profound
+        impact on the climate of your organization and the volunteers that
+        support your mission. Through "The Art of Yes" we'll break down the
+        decision making process and push ourselves forward through creativity
+        and spontaneity. Empathy, awareness, inclusion, flexibility,
+        authenticity, connection, trust, and emotional intelligence are all
+        factors that are explored and enhanced through improvisation. Come say
+        “Yes!”
     - image: /img/workflow.svg
       text: >-
         The Power of Listening - Fostering Equitable Change Through Clear
