@@ -45,7 +45,12 @@ intro:
         on workshop where you will learn the skills to break down your problems
         and turn them into opportunities for success. 
     - image: /img/winningteam.svg
-      text: 'Accessing and Inspiring Youth Through Improvisation: '
+      text: >-
+        Leading the Millennial Generation Workforce: Let's face it...we're all
+        not getting any younger! In this workshop you will learn to stop playing
+        catch-up with employment fads in an attempt to attract, relate, or
+        retain today's millennial workforce, and start focusing on what really
+        gets their attention, acknowledgment. 
   heading: What Alex Offers
   description: >-
     Alex has an extensive menu of workshops and keynote speeches that he would
