@@ -47,10 +47,12 @@ intro:
     - image: /img/winningteam.svg
       text: >-
         Leading the Millennial Workforce: Let's face it...we're all not getting
-        any younger! In this workshop you will learn to stop playing catch-up
-        with employment fads in an attempt to attract, relate, or retain today's
-        millennial workforce, and start focusing on what really gets their
-        attention, acknowledgment. 
+        any younger! In this workshop you'll learn to stop playing catch-up with
+        employment fads and gimmicks in an attempt to attract, relate to, or
+        retain today's millennial workforce, and start focusing on what really
+        gets their attention, acknowledgment. Through proper action planning any
+        organization can attract and retain a millennial workforce on a
+        shoestring budget. 
   heading: What Alex Offers
   description: >-
     Alex has an extensive menu of workshops and keynote speeches that he would
