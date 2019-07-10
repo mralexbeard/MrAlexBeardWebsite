@@ -6,7 +6,7 @@ description: >
   IL. With expertise in improvisational theatre, Alex has leveraged the power
   uncertainty, collaboration, and creativity to empower leaders across the
   country in discovering their own innate ability to implement positive and
-  equitable change. 
+  equitable change.
 image: /img/alex-crop.jpg
 ---
 Alex holds a B.A. in Theatre Arts and Leadership and Social Change from Virginia Tech and has trained at the Second City Conservatory and iO Training Center in Chicago. Alex has performed in festivals across the country including the Kennedy Center’s Page-To-Stage New Play Festival, the Upright Citizen Brigade’s Del Close Marathon, the District Improv Festival, the Philadelphia Improv Festival, the San Diego Improv Festival, and more! He is a former ensemble member of WIT Company Ensemble Nox! at the Washington Improv Theater, where he also directed WIT Company Ensemble Madeline, and taught advanced improvisational theatre courses to members of the community. 
