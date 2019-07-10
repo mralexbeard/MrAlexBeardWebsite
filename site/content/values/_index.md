@@ -38,8 +38,8 @@ values:
     text: >-
       People who say, "some things never change" have never explored the power
       of improv. By teaching improv's key tenets of open active listening,
-      acceptance, and agreement everyone has the power to let off the reigns and
-      promote equitable change both at home and in the workplace. Remember: if
-      we listen to act, we have failed to listen to understand.
+      acceptance, and agreement everyone has the power to laugh, let off the
+      reigns, and promote equitable change both at home and in the workplace.
+      Remember: if we listen to act, we have failed to listen to understand.
 ---
 
