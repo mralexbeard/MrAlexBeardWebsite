@@ -1,6 +1,6 @@
 ---
 title: Alex's Values
-image: /img/about-jumbotron.jpg
+image: /img/businessmen-collaboration-cooperation-886465.jpg
 values:
   - heading: 'We Don''t Have Problems, We Have Opportunities '
     imageUrl: /img/architectural-design-architecture-brick-wall-422844-1-.jpg
