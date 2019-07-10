@@ -3,10 +3,10 @@ title: Alex's Services
 image: /img/products-jumbotron.jpg
 heading: What Alex Offers
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Alex has an extensive menu of workshops and keynote speeches that he would be
+  happy to share with you or your executive team. Below you will find four
+  examples of sessions he has provided this year to various corporations and
+  non-profit organizations. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -36,12 +36,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: What Alex Offers
+  description: >-
+    Alex has an extensive menu of workshops and keynote speeches that he would
+    be happy to share with you or your executive team. Below you will find four
+    examples of sessions he has provided this year to various corporations and
+    non-profit organizations. 
 main:
   heading: Great coffee with no compromises
   description: >
