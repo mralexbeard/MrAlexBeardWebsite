@@ -24,7 +24,13 @@ intro:
     - image: /img/workflow.svg
       text: >-
         The Power of Listening - Fostering Equitable Change Through Clear
-        Communication: 
+        Communication: Vanilla Ice got the order wrong when he said, "Stop,
+        collaborate, and listen!" Through this workshop you'll learn to stop,
+        listen and then empower through collaboration! We'll explore hands-on
+        exercises to demonstrate the importance of active listening i.e.
+        "listening to understand", recognize traps in the change management
+        process, and delve into new techniques to foster a previously unheard of
+        level of equity among staff.
     - image: /img/results.svg
       text: |
         You Don't Have Problems, You Have Opportunities: 
