@@ -3,7 +3,7 @@ title: Contact
 logo: /img/logo.svg
 contact_entries: []
 ---
-Are you ready to learn more about how Alex can design a custom executive training program for you or your staff? Do you want to go on a deep one-on-one exploitative dive of the issues you currently face or the cognitive errors that may be holding you back from success? Would you like to hear more about how Alex can bring a workshop, workshop series, or keynote speech on communication and leadership skills to your business or event? Then contact Alex today! We'll go through your current concerns, mapping out the goals of your organization and how Alex can bring solutions enabling you to meet your objectives through customized executive trainign
+Are you ready to learn more about how Alex can design a custom executive training program for you or your staff? Do you want to go on a deep one-on-one exploitative dive of the issues you currently face or the cognitive errors that may be holding you back from success? Would you like to hear more about how Alex can bring a workshop, workshop series, or keynote speech on communication, creativity, bold decision making, team building, and leadership skills to your business or event? Then contact Alex today! We'll go through your current concerns, mapping out the goals of your organization and how Alex can bring solutions enabling you to meet your objectives though an entertaining, enlightening, and fun process. 
 
 <h3 class="f4 b lh-title mb2">How can I get in touch with Alex?</h3>
 
