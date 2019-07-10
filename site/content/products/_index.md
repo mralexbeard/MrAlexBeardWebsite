@@ -23,7 +23,7 @@ intro:
         through improvisation. Come say “Yes!”
     - image: /img/workflow.svg
       text: >-
-        The Power of Listening-Fostering Equitable Change Through Clear
+        The Power of Listening - Fostering Equitable Change Through Clear
         Communication: 
     - image: /img/results.svg
       text: |
