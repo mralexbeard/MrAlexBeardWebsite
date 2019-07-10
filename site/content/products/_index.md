@@ -10,12 +10,17 @@ description: >-
 intro:
   blurbs:
     - image: /img/yesand.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        The Art of Yes: Improvisation for Volunteer Managers:  "The Art of Yes"
+        at its core is the mindset of teamwork and collaboration. In life we
+        often approach things in black and white terms, "Yes" or "No."
+        Subsequently, each choice has a profound impact on the climate of your
+        organization and the volunteers that support your mission. Through "The
+        Art of Yes" we'll break down the decision making process and push
+        ourselves forward through creativity and spontaneity. Empathy,
+        awareness, inclusion, flexibility, authenticity, connection, trust, and
+        emotional intelligence are all factors that are explored and enhanced
+        through improvisation. Come say “Yes!”
     - image: /img/workflow.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
