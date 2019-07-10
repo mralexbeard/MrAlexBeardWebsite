@@ -32,8 +32,18 @@ intro:
         process, and delve into new techniques to foster a previously unheard of
         level of equity among staff.
     - image: /img/results.svg
-      text: |
-        You Don't Have Problems, You Have Opportunities: 
+      text: >
+        You Don't Have Problems, You Have Opportunities: Each day we are
+        confronted problems at work, at home, and/or in our communities. How we
+        approach these moments can make or break relationships and trust, but
+        more importantly these moments define our success and personal well
+        being. Most of us are not born with the innate ability of automatically
+        looking at issues with a “glass half full” mentality, but through a few
+        key exercises we can begin to train ourselves to look at issues and
+        problems as what they really are: opportunities. Clear your mind, get
+        creative, move your body, laugh, and think outside the box in this hands
+        on workshop where you will learn the skills to break down your problems
+        and turn them into opportunities for success. 
     - image: /img/winningteam.svg
       text: 'Accessing and Inspiring Youth Through Improvisation: '
   heading: What Alex Offers
