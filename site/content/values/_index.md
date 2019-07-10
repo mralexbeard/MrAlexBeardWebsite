@@ -26,7 +26,7 @@ values:
       can lead to more appropriate methods of performance analysis. Everyone's a
       critic, let Alex teach you how to filter out your own worst enemy. 
   - heading: 'In Relationships, Time Is of the Essence'
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/adult-analogue-break-404972.jpg
     text: >-
       In life, and in improv, the only person we have control over is ourselves.
       Don't let past transgressions, poor decision making, or lack of leadership
