@@ -36,7 +36,7 @@ values:
   heading: 'His Values:'
   text: >-
     Alex firmly believes that everyone has the power to lead, that societal
-    pressure and imposter syndrom often get the best of us, leading to poor
+    pressure and impostor syndrome often get the best of us, leading to poor
     decision making and, in turn, poor leadership.
 ---
 
