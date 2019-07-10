@@ -1,7 +1,7 @@
 ---
 title: Alex Beard
 subtitle: '"If You''re Not Laughing, You''re Not Leading"'
-image: /img/speaking.jpg
+image: /img/newyork-1-.jpg
 blurb:
   heading: Who's Alex?
   text: >-
