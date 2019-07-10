@@ -35,8 +35,9 @@ products:
 values:
   heading: 'His Values:'
   text: >-
-    Alex firmly believes that everyone has the power to lead, that societal
-    pressure and impostor syndrome often get the best of us, leading to poor
-    decision making and, in turn, poor leadership.
+    Alex firmly believes that everyone has the power to lead, that poor
+    training, societal pressure, and impostor syndrome often get the best of us,
+    leading to poor decision making and, in turn, poor leadership. Click below
+    to find out more...
 ---
 
