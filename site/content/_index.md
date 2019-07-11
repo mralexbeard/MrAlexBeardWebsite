@@ -16,8 +16,8 @@ intro:
     Alex offers customized group workshops, one-on-one sessions, and keynote
     speeches focused on your organizations needs and how the key tenets of
     improvisational theatre can be utilized to ascertain leadership
-    shortcomings, concoct collaborative workflows,  and boost creative problem
-    solving in the workplace and at home! 
+    shortcomings, mediate conflict, concoct collaborative workflows,  and boost
+    creative problem solving in the workplace and at home!
 products:
   - image: /img/teamwork2.svg
     text: >-
