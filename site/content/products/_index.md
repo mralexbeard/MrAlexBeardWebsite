@@ -50,9 +50,12 @@ intro:
         any younger! In this workshop you'll learn to stop playing catch-up with
         employment fads and gimmicks in an attempt to attract, relate to, or
         retain today's millennial workforce, and start focusing on what really
-        gets their attention, acknowledgment. Through proper action planning any
-        organization can attract and retain a millennial workforce on a
-        shoestring budget. 
+        gets their attention...acknowledgment! Through proper action planning
+        and communication structure any organization can attract and retain a
+        millennial workforce on a shoestring budget. They might LIKE to play
+        pinball in the break-room but they NEED to be heard and recognized.
+        Disclosure: Alex is a Millennial, Foosball tables and a snack-room is
+        NOT required at hosted workshops.   
   heading: What Alex Offers
   description: >-
     Alex has an extensive menu of workshops and keynote speeches that he would
