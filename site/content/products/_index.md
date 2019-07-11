@@ -63,12 +63,13 @@ intro:
     examples of sessions he has provided this year to various corporations and
     non-profit organizations. 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Didn't See What You We're Looking For?
+  description: >-
+    Alex has been facilitating leadership and team building programs for all
+    ages and occupations. If you are currently facing an issue in the workplace
+    or at home, Alex would be happy to suggest or create a custom workshop or
+    keynote offering that could assist you or your team! It doesn't cost
+    anything to connect and share your story, Alex is here to help. 
   image1:
     alt: 'Alex teaching the foundations of leadership through hands-on activities. '
     image: /img/img_2176.jpg
