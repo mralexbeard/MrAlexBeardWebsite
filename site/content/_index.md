@@ -6,10 +6,12 @@ blurb:
   heading: Who's Alex?
   text: >-
     Alex Beard is an actor, director, and teaching artist based out of Chicago,
-    IL. With expertise in improvisational theatre, Alex has leveraged the power
-    uncertainty, collaboration, and creativity to empower leaders across the
-    country in discovering their own innate ability to implement positive and
-    equitable change.
+    IL. As a former employee of the Walt Disney Company he brings premier
+    corporate training in Business Leadership, Customer Relations, and Creative
+    Entertainment Show Production. With expertise in improvisational theatre,
+    Alex has leveraged the power uncertainty, collaboration, and creativity to
+    empower leaders across the country in discovering their own innate ability
+    to implement positive and equitable change.
 intro:
   heading: 'What Alex Offers:'
   text: >-
