@@ -20,8 +20,8 @@ intro:
     collaborative efforts. He offers customized one-on-one experiences, group
     workshops, and keynote speeches focused on your organization’s specific
     needs. This engaging experience can be implemented to mediate conflict,
-    develop collaborate workflows, discern & remedy leadership shortcomings, and
-    boost creative problem solving in the workplace and at home! 
+    develop collaborative workflows, discern & remedy leadership shortcomings,
+    and boost creative problem solving in the workplace and at home! 
 products:
   - image: /img/teamwork2.svg
     text: >-
