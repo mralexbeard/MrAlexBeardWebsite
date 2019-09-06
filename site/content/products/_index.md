@@ -6,7 +6,7 @@ description: >-
   Alex has an extensive menu of workshops and keynote speeches that he would be
   happy to share with you or your executive team. Below you will find a few
   examples of sessions he has provided this year to various corporations and
-  non-profit organizations. 
+  non-profit organizations.
 intro:
   blurbs:
     - image: /img/yesand.svg
@@ -16,7 +16,7 @@ intro:
         often approach things in black and white terms, "Yes" or "No."
         Subsequently, each choice has a profound impact on the climate of your
         organization and the volunteers that support your mission. Through "The
-        Art of Yes" we'll break down the decision making process and push
+        Art of Yes" we'll break down the decision-making process and push
         ourselves forward through creativity and spontaneity. Empathy,
         awareness, inclusion, flexibility, authenticity, connection, trust, and
         emotional intelligence are all factors that are explored and enhanced
@@ -26,24 +26,24 @@ intro:
         The Power of Listening - Fostering Equitable Change Through Clear
         Communication: Vanilla Ice got the order wrong when he said, "Stop,
         collaborate, and listen!" Through this workshop you'll learn to stop,
-        listen and then empower through collaboration! We'll explore hands-on
+        listen, and then empower through collaboration! We'll explore hands-on
         exercises to demonstrate the importance of active listening i.e.
-        "listening to understand", recognize traps in the change management
-        process, and delve into new techniques to foster a previously unheard of
+        "listening to understand,” recognize traps in the change management
+        process, and delve into new techniques to foster a previously unheard-of
         level of equity among staff.
     - image: /img/results.svg
-      text: >
+      text: >-
         You Don't Have Problems, You Have Opportunities: Each day we are
-        confronted problems at work, at home, and/or in our communities. How we
-        approach these moments can make or break relationships and trust, but
-        more importantly these moments define our success and personal well
-        being. Most of us are not born with the innate ability of automatically
-        looking at issues with a “glass half full” mentality, but through a few
-        key exercises we can begin to train ourselves to look at issues and
-        problems as what they really are: opportunities. Clear your mind, get
-        creative, move your body, laugh, and think outside the box in this hands
-        on workshop where you will learn the skills to break down your problems
-        and turn them into opportunities for success. 
+        confronted with problems at work, at home, and/or in our communities.
+        How we approach these moments can make or break relationships and trust,
+        but more importantly these moments define our success and personal
+        wellbeing. Most of us are not born with the automatic capacity to look
+        at issues with a “glass half full” mentality however, with a few key
+        exercises we can begin to train ourselves to look at issues and problems
+        as what they really are: opportunities. Clear your mind, get creative,
+        move your body, laugh, and think outside the box in this hands-on
+        workshop where you will learn the skills to break down your problems and
+        turn them into opportunities for success. 
     - image: /img/winningteam.svg
       text: >-
         Leading the Millennial Workforce: Let's face it...we're all not getting
@@ -54,8 +54,8 @@ intro:
         and communication structure any organization can attract and retain a
         millennial workforce on a shoestring budget. They might LIKE to play
         pinball in the break-room but they NEED to be heard and recognized.
-        Disclosure: Alex is a Millennial, Foosball tables and a snack-room is
-        NOT required at hosted workshops.   
+        Disclosure: Alex is a Millennial; Foosball tables and a snack-room is
+        NOT required at hosted workshops. 
   heading: What Alex Offers
   description: >-
     Alex has an extensive menu of workshops and keynote speeches that he would
@@ -69,7 +69,7 @@ main:
     ages and occupations. If you are currently facing an issue in the workplace
     or at home, Alex would be happy to suggest or create a custom workshop or
     keynote offering that could assist you or your team! It doesn't cost
-    anything to connect and share your story, Alex is here to help. 
+    anything to connect and share your story, Alex is here to help.
   image1:
     alt: 'Alex teaching the foundations of leadership through hands-on activities. '
     image: /img/img_2176.jpg
