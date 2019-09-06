@@ -54,7 +54,7 @@ intro:
         and communication structure any organization can attract and retain a
         millennial workforce on a shoestring budget. They might LIKE to play
         pinball in the break-room but they NEED to be heard and recognized.
-        Disclosure: Alex is a Millennial; Foosball tables and a snack-room is
+        Disclosure: Alex is a Millennial; Foosball tables and a snack-room are
         NOT required at hosted workshops. 
   heading: What Alex Offers
   description: >-
